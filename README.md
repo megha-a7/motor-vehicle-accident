@@ -1,4 +1,5 @@
-# motor-vehicle-accident
+# motor_vehicle_accident_streamlit
+
 ## Build a Data Science Web App with Streamlit and Python
 ### Instructor ~ Snehan Kekre
 
