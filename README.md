@@ -2,7 +2,7 @@
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/megha-a7/motor_vehicle_accident_streamlit/app.py)
 
 ## Build a Data Science Web App with Streamlit and Python
-### Instructor ~ Snehan Kekre
+
 
 This is a hands-on project on building a data science web app with the Streamlit library in Python.
 
