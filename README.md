@@ -1,4 +1,8 @@
 # motor_vehicle_accident_streamlit
+![8](https://user-images.githubusercontent.com/82528894/136703119-b80e20b0-48cc-4bc0-8c93-10de0cbe7fba.JPG)
+![6](https://user-images.githubusercontent.com/82528894/136703121-10c1bb49-f30f-4edd-a569-6c52649d3a11.JPG)
+
+
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/megha-a7/motor_vehicle_accident_streamlit/app.py)
 
 ## Build a Data Science Web App with Streamlit and Python
